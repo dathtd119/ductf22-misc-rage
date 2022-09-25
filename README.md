@@ -3,6 +3,8 @@ DownUnderCTF 2022 - misc/rage writeup
 
 ## Official write up from their Github: [LINK](https://github.com/DownUnderCTF/Challenges_2022_Public/tree/main/misc/rage)
 
+## Disclaimer: This guy using non-professional writing skills, check this before read those things below, Your warranty is now void.
+
 
 
 Literally just a goofy ahh boy found out something in a goofy ahh sound ngl.
