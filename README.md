@@ -39,8 +39,9 @@ The `RAGE!.wav` file first look:
 *We found out this frequency `around 500hz` is louder than normal.*
 
 
-*So i just separated it and exported an audio file that it only has frequencies around 500hz.*
-    -You can check that exported audio file right [here](https://github.com/dathtd119/ductf22-misc-rage/blob/main/exported.mp3)
+* **So i just separated it and exported an audio file that it only has frequencies around 500hz.**
+    - You can check that exported audio file right [here](https://github.com/dathtd119/ductf22-misc-rage/blob/main/exported.mp3)
+    - The exported file is supposed to sound uglier like the origin one but I love my and your ears so yeah, *prettify* it.
 
 
 <img src = "https://i.imgur.com/rsNJQ5l.png">
@@ -49,7 +50,7 @@ The `RAGE!.wav` file first look:
 *BRUH THESE ARE MORSE CODE NGL.*
 
 ## Final result
-* After searching for morse code and I can finally find the flag.
+* After searching for morse code, I can finally capture the flag.
 
 ```
 .-. .- --. .. -. --. - --- .-- .  .. .-. -.. .-.. .. -... .. -.. ---
