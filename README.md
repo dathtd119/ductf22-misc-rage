@@ -40,7 +40,7 @@ The `RAGE!.wav` file first look:
 
 
 *So i just separated it and exported an audio file that it only has frequencies around 500hz.*
-    -You can check that exported audio file right [here](https://github.com/dathtd119/ductf22-misc-rage/blob/main/export.mp3)
+    -You can check that exported audio file right [here](https://github.com/dathtd119/ductf22-misc-rage/blob/main/exported.mp3)
 
 
 <img src = "https://i.imgur.com/rsNJQ5l.png">
